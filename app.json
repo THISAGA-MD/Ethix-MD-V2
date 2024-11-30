@@ -1,16 +1,14 @@
 {
-  "name": "whatsapp-bot (Ethix-MD)",
-  "description": " Whatsapp bot.",
-  "keywords": [
+  "name": "THISAGA.MDeywords": [
     "whatsapp bot"
   ],
   "repository": "https://github.com/Ethix-Xsid/Ethix-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&9DahY107",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&9DahY107"
     },
     "MODE": {
       "description": "mode public or self",
