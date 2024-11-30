@@ -6,9 +6,9 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "Ethix-MD&9DahY107",
+      "description": "Ethix-MD&UmJFG3Aq",
       "required": true,
-      "value": "Ethix-MD&9DahY107"
+      "value": "Ethix-MD&UmJFG3Aq"
     },
     "MODE": {
       "description": "mode public or self",
